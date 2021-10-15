@@ -1,18 +1,21 @@
-## Olá ! 👋 
+## Olá! Eu sou Ediclei Gonzaga 👋 
 > 🎓**Estudante de Análise e Desenvolvimento de Sistemas** | Uninassau - Graças/Recife-PE <br>
 > <img align="center" alt="Full-Stack" height="20" width="20" src="https://assets-global.website-files.com/5d9bc5d562ffc2869b470941/5e05268588c99ee377c04bcf_logo-fsl-dark-solid.svg"> **Padawan Full-Stack** <img align="center" alt="Full-Stack" height="20" width="20" src="https://i.imgur.com/1pN1Lnx.png">
 
-### 📚Estudando:
-- 📗 C#
-- 📙 HTML
-- 📘 CSS
-- 📒 JavaScripit
+<details>
+<summary> 📚Studying</summary> <br>
+- 📗 C# <br>
+- 📙 HTML <br>
+- 📘 CSS <br>
+- 📒 JavaScripit 
+</details>
 
 <div align="center">
 
   <a href="https://github.com/g0nz4g4">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=g0nz4g4&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g0nz4g4&hide=html&layout=compact&theme=tokyonight"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g0nz4g4&hide=html&layout=compact&theme=tokyonight"/>
+  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=g0nz4g4&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0"/>
     
 </div>
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -48,4 +51,6 @@
   <a href="mailto:gonzaga98ed@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=[gmail]" /></a>
   
+  <a href="https://github.com/G0nz4g4" alt="GitHub">
+  <img src="https://img.shields.io/github/followers/G0nz4g4?label=follow&style=social" /></a>
 </p>
