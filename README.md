@@ -4,7 +4,7 @@
 > <img align="center" alt="Full-Stack" height="20" width="20" src="https://assets-global.website-files.com/5d9bc5d562ffc2869b470941/5e05268588c99ee377c04bcf_logo-fsl-dark-solid.svg"> **Padawan Full-Stack** <img align="center" alt="Full-Stack" height="20" width="20" src="https://i.imgur.com/1pN1Lnx.png">
 
 <details>
-<summary> 📚Studying</summary> <br>
+  <summary> <b>📚Studying</b></summary> <br>
   <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g0nz4g4&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" align="right"/>
 - 📗 C# <br>
 - 📙 HTML <br>
@@ -30,14 +30,14 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   
-## ⚙ Ferramentas
+## ⚙ Tools
 
   <img align="center" alt="vs-code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="vs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
 
 
-## Redes Sociais
+## 📢 Social Networks
 
 [gmail]: https//mailto:gonzaga98ed@gmail.com
 [linkedin]: https://www.linkedin.com/in/ediclei-gonzaga/
