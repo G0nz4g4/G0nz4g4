@@ -1,4 +1,4 @@
-## Olá! Eu sou Ediclei Gonzaga 👋 
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+pessoal!+👋;Eu+sou+Ediclei+Gonzaga!;ou+G0nz4g4/MrMizzu;Prazer+em+conhece-los!;🤙🔥&center=true&size=30"></div>
 > 🎓**Estudante de Análise e Desenvolvimento de Sistemas** | Uninassau - Graças/Recife-PE <br>
 > <img align="center" alt="Full-Stack" height="20" width="20" src="https://assets-global.website-files.com/5d9bc5d562ffc2869b470941/5e05268588c99ee377c04bcf_logo-fsl-dark-solid.svg"> **Padawan Full-Stack** <img align="center" alt="Full-Stack" height="20" width="20" src="https://i.imgur.com/1pN1Lnx.png">
 
@@ -13,9 +13,8 @@
 <div align="center">
 
   <a href="https://github.com/g0nz4g4">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=g0nz4g4&theme=tokyonight"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g0nz4g4&hide=html&layout=compact&theme=tokyonight"/>
-  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=g0nz4g4&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=g0nz4g4&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800"/>
+   <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=g0nz4g4&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787"/>
     
 </div>
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
