@@ -5,7 +5,7 @@
 
 <details>
 <summary> 📚Studying</summary> <br>
-  <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g0nz4g4&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" align="right"/>
+  <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g0nz4g4&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" align="right"/>
 - 📗 C# <br>
 - 📙 HTML <br>
 - 📘 CSS <br>
