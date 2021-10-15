@@ -1,4 +1,4 @@
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+pessoal!+👋;Eu+sou+Ediclei+Gonzaga!;ou+G0nz4g4/MrMizzu;Prazer+em+conhece-los!;🤙🔥&center=true&size=30"></div>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+pessoal!+👋;Eu+sou+Ediclei+Gonzaga!;ou+G0nz4g4/MrMizzu;Prazer+em+conhece-los!;🤙🔥&center=true&size=30"><br>
 > 🎓**Estudante de Análise e Desenvolvimento de Sistemas** | Uninassau - Graças/Recife-PE <br>
 > <img align="center" alt="Full-Stack" height="20" width="20" src="https://assets-global.website-files.com/5d9bc5d562ffc2869b470941/5e05268588c99ee377c04bcf_logo-fsl-dark-solid.svg"> **Padawan Full-Stack** <img align="center" alt="Full-Stack" height="20" width="20" src="https://i.imgur.com/1pN1Lnx.png">
 
