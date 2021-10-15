@@ -35,6 +35,7 @@
   <img align="center" alt="vs-code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="vs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+  <img align="center" alt="Photoshop" height="30" width="30" src="https://www.freeiconspng.com/thumbs/adobe-photoshop-icon/gradient-adobe-photoshop-icon-2.png">
 
 
 ## 📢 Social Networks
