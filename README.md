@@ -1,4 +1,6 @@
-<p align=center><img src="https://readme-typing-svg.herokuapp.com/?lines=Olá+pessoal!+👋;Eu+sou+Ediclei+Gonzaga!;ou+G0nz4g4/MrMizzu;Prazer+em+conhece-los!;🤙🔥&center=true&size=30"></p>
+<p align=center><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&lines=Olá+pessoal!+👋;Eu+sou+Ediclei+Gonzaga!;ou+G0nz4g4/MrMizzu;Prazer+em+conhece-los!;🤙🔥&center=true&size=28"></p>
+
+<p align=center><a href="https://instagram.com/junior98ed/" alt="Instagram"><img src="https://i.imgur.com/a8njlMf.png" width="32px"/></a>  <a href="https://www.linkedin.com/in/ediclei-gonzaga/" alt="Linkedin"><img src="https://i.imgur.com/1DAksUl.png" width="32px"/></a>  <a href="mailto:gonzaga98ed@gmail.com" alt="Gmail"><img src="https://i.imgur.com/wwJzVGq.png" width="32px"/></a></p>
 
 > 🎓**Estudante de Análise e Desenvolvimento de Sistemas** | Uninassau - Graças/Recife-PE <br>
 > <img align="center" alt="Full-Stack" height="20" width="20" src="https://i.imgur.com/1pN1Lnx.png"> **Padawan FrontEnd** 
@@ -36,24 +38,3 @@
   <img align="center" alt="vs" height="0" width="0" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
   <img align="center" alt="Photoshop" height="30" width="30" src="https://www.freeiconspng.com/thumbs/adobe-photoshop-icon/gradient-adobe-photoshop-icon-2.png">
-
-
-## 📢 Social Networks
-
-[gmail]: https//mailto:gonzaga98ed@gmail.com
-[linkedin]: https://www.linkedin.com/in/ediclei-gonzaga/
-[instagram]: https://instagram.com/junior98ed/
-
-<p align="left">
-   <a href="https://instagram.com/junior98ed/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=[instagram]"/></a>
-  
-   <a href="https://www.linkedin.com/in/ediclei-gonzaga/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[linkedin]" /></a>                                                                                                                                            
-   
-  <a href="mailto:gonzaga98ed@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=[gmail]" /></a>
-  
-  <a href="https://github.com/G0nz4g4" alt="GitHub">
-  <img src="https://img.shields.io/github/followers/G0nz4g4?label=follow&style=social" /></a>
-</p>
