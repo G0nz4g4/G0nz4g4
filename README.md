@@ -3,7 +3,7 @@
 <p align=center><a href="https://instagram.com/junior98ed/" alt="Instagram"><img src="https://i.imgur.com/7BeZcYO.png" width="32px"/></a>  <a href="https://www.linkedin.com/in/ediclei-gonzaga/" alt="Linkedin"><img src="https://i.imgur.com/dZp5OcL.png" width="32px"/></a>  <a href="mailto:gonzaga98ed@gmail.com" alt="Gmail"><img src="https://i.imgur.com/GQYGEs7.png" width="32px"/></a></p>
 
 > 🎓**Estudante de Análise e Desenvolvimento de Sistemas** | Uninassau - Graças/Recife-PE <br>
-> <img align="center" alt="Full-Stack" height="20" width="20" src="https://i.imgur.com/1bJrv0A.png"> **Noviço Sith FullStack** 
+> <img align="center" alt="FrontEnd" height="20" width="20" src="https://i.imgur.com/1bJrv0A.png"> **Noviço Sith FrontEnd** 
 
 <details>
   <summary> <b>📚Studying</b></summary> <br>
