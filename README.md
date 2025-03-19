@@ -22,7 +22,7 @@
     
 </div>
 
-<img src="https://i.im.ge/2022/08/23/OiaCy8.23123.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="G0nz4g4 Code">
+<img src="https://i.imgur.com/vTkDsQc.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="G0nz4g4 Code">
 
 ## ⚡ Skills    
 
