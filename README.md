@@ -14,7 +14,7 @@
 </details>
 
 
-<a href="https://github.com/g0nz4g4"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=g0nz4g4&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=B4061B&text_color=878787&icon_color=B4061B&cache_seconds=1800"/><img src="https://i.imgur.com/vTkDsQc.gif" min-width="400px" max-width="400px" width="400px" alt="G0nz4g4 Code"></a>
+<a href="https://github.com/g0nz4g4"><img src="https://i.imgur.com/vTkDsQc.gif" min-width="400px" max-width="400px" width="400px" alt="G0nz4g4 Code"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=g0nz4g4&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=B4061B&text_color=878787&icon_color=B4061B&cache_seconds=1800"/></a>
 
 ## ⚡ Skills    
 
