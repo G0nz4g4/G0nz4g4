@@ -20,9 +20,7 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=g0nz4g4&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=B4061B&text_color=878787&icon_color=B4061B&cache_seconds=1800"/>
   <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=g0nz4g4&background=00000000&hide_border=true&stroke=878787&ring=B4061B&fire=B4061B&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787"/>
     
-</div>
-
-<img src="https://i.imgur.com/vTkDsQc.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="G0nz4g4 Code">
+</div><img src="https://i.imgur.com/vTkDsQc.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="G0nz4g4 Code">
 
 ## ⚡ Skills    
 
