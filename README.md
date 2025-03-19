@@ -2,7 +2,7 @@
 
 <p align=center><a href="https://instagram.com/junior98ed/" alt="Instagram"><img src="https://i.imgur.com/7BeZcYO.png" width="32px"/></a>  <a href="https://www.linkedin.com/in/ediclei-gonzaga/" alt="Linkedin"><img src="https://i.imgur.com/dZp5OcL.png" width="32px"/></a>  <a href="mailto:gonzaga98ed@gmail.com" alt="Gmail"><img src="https://i.imgur.com/GQYGEs7.png" width="32px"/></a></p>
 
-> <img align="center" alt="FrontEnd" height="20" width="20" src="https://i.imgur.com/1bJrv0A.png"> **Noviço Sith Developer** 
+> <img align="center" alt="Developer" height="20" width="20" src="https://i.imgur.com/1bJrv0A.png"> **Noviço Sith Developer** 
 
 <details>
   <summary> <b>📚Studying</b></summary> <br>
@@ -14,7 +14,7 @@
 </details>
 
 
-<a href="https://github.com/g0nz4g4"><img src="https://i.imgur.com/vTkDsQc.gif" min-width="400px" max-width="400px" width="400px" alt="G0nz4g4 Code"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=g0nz4g4&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=B4061B&text_color=878787&icon_color=B4061B&cache_seconds=1800"/></a>
+<a href="https://github.com/g0nz4g4"><img align="left" src="https://i.imgur.com/vTkDsQc.gif" min-width="400px" max-width="400px" width="400px" alt="G0nz4g4 Code"><img align="right" height="150px" src="https://github-readme-stats.vercel.app/api?username=g0nz4g4&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=B4061B&text_color=878787&icon_color=B4061B&cache_seconds=1800"/></a>
 
 ## ⚡ Skills    
 
